@@ -1,0 +1,24 @@
+{
+    "project": {
+        "name": "mybgg",  
+        "title": ""  
+    },
+    "boardgamegeek": {
+        "user_name": "cryyo",  
+        "extra_params": {
+            "own": 1  
+        }
+    },
+    "algolia": {
+        "app_id": "CSIFN9HTB2",  
+                                  
+        "api_key_search_only": "faa2b7064a18dc8d752e9c02cc9edf74",  
+
+        "index_name": "All games",  
+                                          
+        "hits_per_page": 48,  
+        "sort_by": "asc(name)"  
+                                
+                                
+    }
+}
